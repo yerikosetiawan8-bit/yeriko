@@ -1,0 +1,15 @@
+body  {
+  backgroud-color: #a1ae16; /* Warna hijau */
+  font-family: Arial, sans-serif; /" jenis huruf yang bersih dan mudah dibaca */
+  color: #000000; /* warna teks utama (hitam)
+  }
+
+.kartu-profil img {
+   width: 150x;
+   margin: 50px auto /* 50px jarak atas/bawah, auto menengahkan kiri/kanan*/
+   padding:20px
+ background-color: white
+   border-radius: 15px; /* membuat sudut menjadi melengkung */
+   box-shadow: 0 4px 8px rgba(0,0,0,0,1): /* efek bayangan */
+}
+     
